@@ -6,7 +6,7 @@ Start:
          
     python spammer.py
     
-    ![image](https://user-images.githubusercontent.com/75194878/113504431-f3219d00-952f-11eb-8447-230bc35e7eb0.png)
+![image](https://user-images.githubusercontent.com/75194878/113504431-f3219d00-952f-11eb-8447-230bc35e7eb0.png)
 
 How it should look when loaded:
 
