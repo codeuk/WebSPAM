@@ -1,12 +1,12 @@
 # About
-This is a simple discord webhook-spammer.
+This is just a simple discord webhook-spammer.
 
 # How-to-use
-Start:
+How to run:
          
     python spammer.py
     
-![image](https://user-images.githubusercontent.com/75194878/113504431-f3219d00-952f-11eb-8447-230bc35e7eb0.png)
+![image](https://user-images.githubusercontent.com/75194878/113504578-e2255b80-9530-11eb-99d5-35b13edcd148.png)
 
 How it should look when loaded:
 
@@ -18,7 +18,11 @@ If you have selected nothing as your webhooks username, then it will provide the
 
 The same thing happens in the next input, which is the webhooks message. ^
 
+![image](https://user-images.githubusercontent.com/75194878/113504563-d46fd600-9530-11eb-83e2-984f40b59f16.png)
+
 From here, all you need to do is select the amount of threads you would like to run on.
 
 and Boom! you will see the messages going through to the webhook. :)
+
+![image](https://user-images.githubusercontent.com/75194878/113504548-c752e700-9530-11eb-919e-e95e25e422d8.png)
 
