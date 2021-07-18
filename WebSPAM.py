@@ -107,4 +107,4 @@ for x in range(threads):
     thread.start()
 print(f'{Fore.RED}[]')
 
-#created by doop#0001
+#created by doop#0001 / github.com/@7uk
