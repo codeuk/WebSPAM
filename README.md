@@ -1,5 +1,5 @@
 # WebSPAM 🥊
-**WebSPAM** is a simple Discord Webhook-Spammer created in Python.
+**WebSPAM** is a simple Discord Webhook-Spammer.
 
 # Setup 👿
 Run this command in your terminal to get started:
