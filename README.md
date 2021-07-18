@@ -1,16 +1,10 @@
-# About
-This is just a simple discord webhook-spammer.
+# WebSPAM 🥊
+WebSPAM is a simple Discord Webhook-Spammer created in Python.
 
-# How-to-use
-How to run:
-         
-    python spammer.py
+# Setup 👿
+Run this 
     
 ![image](https://user-images.githubusercontent.com/75194878/113504578-e2255b80-9530-11eb-99d5-35b13edcd148.png)
-
-How it should look when loaded:
-
-![image](https://user-images.githubusercontent.com/75194878/113504445-0af92100-9530-11eb-90d7-f2be3288ed1f.png)
 
 When loaded, input your webhook link and then your desired webhook name.
 
