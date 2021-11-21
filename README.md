@@ -18,5 +18,5 @@ From here, all you need to do is select the amount of threads you would like to 
 # Final Notes 📝
 Only use WebSPAM in/on servers/webhooks that you have permission to spam!
 
-Please credit doopy / 7uk when making changes to the code, Thanks! 👺
+Please credit doop / codeuk when making changes to the code, Thanks! 👺
 
